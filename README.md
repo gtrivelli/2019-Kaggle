@@ -1,4 +1,4 @@
-#Abstract
+# Abstract
 
 We participated in Kaggle’s 2019 Data Science Bowl taking data from a children’s educational application. In the data, game sessions are labeled how likely it is for the installation id in that game session to pass the test within a certain number of tries. We attempted to predict what label would be assigned to installation ids given the events for each game session. We could unfortunately not overcome the issues surrounding the data and instead of obtaining a solution for the problem, found insight in to real world data mining. 
 
